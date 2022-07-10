@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/todo-devchallenges/static/css/main.814615f6.css",
-    "main.js": "/todo-devchallenges/static/js/main.03b7e06b.js",
+    "main.js": "/todo-devchallenges/static/js/main.5091ccc0.js",
     "index.html": "/todo-devchallenges/index.html",
     "main.814615f6.css.map": "/todo-devchallenges/static/css/main.814615f6.css.map",
-    "main.03b7e06b.js.map": "/todo-devchallenges/static/js/main.03b7e06b.js.map"
+    "main.5091ccc0.js.map": "/todo-devchallenges/static/js/main.5091ccc0.js.map"
   },
   "entrypoints": [
     "static/css/main.814615f6.css",
-    "static/js/main.03b7e06b.js"
+    "static/js/main.5091ccc0.js"
   ]
 }
