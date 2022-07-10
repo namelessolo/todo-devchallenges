@@ -1,0 +1,8 @@
+@use "../../themes/fonts";
+
+.container {
+  max-width: 650px;
+  font-family: fonts.$first;
+  margin: 0 auto;
+  padding: 20px;
+}
