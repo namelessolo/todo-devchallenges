@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-devchallenges/static/css/main.814615f6.css",
+    "main.js": "/todo-devchallenges/static/js/main.7f50a740.js",
+    "index.html": "/todo-devchallenges/index.html",
+    "main.814615f6.css.map": "/todo-devchallenges/static/css/main.814615f6.css.map",
+    "main.7f50a740.js.map": "/todo-devchallenges/static/js/main.7f50a740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.814615f6.css",
+    "static/js/main.7f50a740.js"
+  ]
+}
