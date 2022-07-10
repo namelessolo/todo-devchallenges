@@ -10,10 +10,10 @@ const Header = () => {
         <NavLink to="/" className={({ isActive }) => (isActive ? `${styles.active}` : "")}>
           All
         </NavLink>
-        <NavLink to="/active" className={({ isActive }) => (isActive ? `${styles.active}` : "")}>
+        <NavLink to="/todo-devchallenges/active/" className={({ isActive }) => (isActive ? `${styles.active}` : "")}>
           Active
         </NavLink>
-        <NavLink to="/completed" className={({ isActive }) => (isActive ? `${styles.active}` : "")}>
+        <NavLink to="/todo-devchallenges/completed" className={({ isActive }) => (isActive ? `${styles.active}` : "")}>
           Completed
         </NavLink>
       </nav>
